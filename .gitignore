@@ -2,3 +2,4 @@
 /server/node_modules/
 yarn.lock
 .idea
+tsconfig.tsbuildinfo
